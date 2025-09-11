@@ -9,4 +9,4 @@ class PersonController {
     }
 }
 
-Model.exports = PersonController;
+module.exports = PersonController;
