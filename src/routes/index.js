@@ -1,5 +1,5 @@
 const express = require('express');
-const persons = require('./personsRoute.js');
+const persons = require('./person.routes.js');
 
 module.exports = app => {
     app.use(
